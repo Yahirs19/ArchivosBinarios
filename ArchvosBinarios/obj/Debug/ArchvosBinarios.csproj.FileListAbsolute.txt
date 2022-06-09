@@ -1,0 +1,7 @@
+C:\Users\Yahir\Documents\GitHub\ArchivosBinarios\ArchvosBinarios\bin\Debug\ArchvosBinarios.exe.config
+C:\Users\Yahir\Documents\GitHub\ArchivosBinarios\ArchvosBinarios\bin\Debug\ArchvosBinarios.exe
+C:\Users\Yahir\Documents\GitHub\ArchivosBinarios\ArchvosBinarios\bin\Debug\ArchvosBinarios.pdb
+C:\Users\Yahir\Documents\GitHub\ArchivosBinarios\ArchvosBinarios\obj\Debug\ArchvosBinarios.csproj.AssemblyReference.cache
+C:\Users\Yahir\Documents\GitHub\ArchivosBinarios\ArchvosBinarios\obj\Debug\ArchvosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\Yahir\Documents\GitHub\ArchivosBinarios\ArchvosBinarios\obj\Debug\ArchvosBinarios.exe
+C:\Users\Yahir\Documents\GitHub\ArchivosBinarios\ArchvosBinarios\obj\Debug\ArchvosBinarios.pdb
